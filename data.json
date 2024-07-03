@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Hello, I am John Doe",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "text": "Hello, I am Jane Doe",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "text": "Hello, I am John Doe",
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "text": "Hello, I am Jane Doe",
+    "rating": 2
+  },
+  {
+    "id": 5,
+    "text": "Hello, I am John Doe",
+    "rating": 1
+  }
+]
